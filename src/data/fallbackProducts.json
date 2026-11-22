@@ -1,0 +1,925 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Essence Mascara Lash Princess",
+      "description": "Volumizing and lengthening mascara with a cruelty-free formula that builds lashes without clumping.",
+      "category": "beauty",
+      "price": 9.99,
+      "discountPercentage": 7.17,
+      "rating": 4.94,
+      "stock": 99,
+      "tags": [
+        "mascara",
+        "eyes"
+      ],
+      "brand": "Essence",
+      "sku": "SHP-0001",
+      "weight": 2,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 4,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/essence-mascara-lash-princess/thumbnail.webp"
+    },
+    {
+      "id": 2,
+      "title": "Eyeshadow Palette with Mirror",
+      "description": "Eighteen richly pigmented shades in matte and shimmer finishes, with a built-in mirror for touch-ups.",
+      "category": "beauty",
+      "price": 19.99,
+      "discountPercentage": 5.5,
+      "rating": 3.28,
+      "stock": 34,
+      "tags": [
+        "eyeshadow",
+        "palette"
+      ],
+      "brand": "Glamour Beauty",
+      "sku": "SHP-0002",
+      "weight": 3,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 3,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 2,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/eyeshadow-palette-with-mirror/thumbnail.webp"
+    },
+    {
+      "id": 3,
+      "title": "Powder Canister",
+      "description": "Lightweight setting powder that controls shine and leaves a soft, natural finish all day.",
+      "category": "beauty",
+      "price": 14.99,
+      "discountPercentage": 18.14,
+      "rating": 3.82,
+      "stock": 89,
+      "tags": [
+        "powder",
+        "face"
+      ],
+      "brand": "Velvet Touch",
+      "sku": "SHP-0003",
+      "weight": 4,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/powder-canister/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/powder-canister/thumbnail.webp"
+    },
+    {
+      "id": 4,
+      "title": "Red Lipstick",
+      "description": "A bold, creamy red with long-lasting colour and a comfortable satin finish.",
+      "category": "beauty",
+      "price": 12.99,
+      "discountPercentage": 19.03,
+      "rating": 4.36,
+      "stock": 91,
+      "tags": [
+        "lipstick",
+        "lips"
+      ],
+      "brand": "Chic Cosmetics",
+      "sku": "SHP-0004",
+      "weight": 5,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-lipstick/thumbnail.webp"
+    },
+    {
+      "id": 5,
+      "title": "Red Nail Polish",
+      "description": "High-gloss red polish that dries fast and resists chipping for up to a week.",
+      "category": "beauty",
+      "price": 8.99,
+      "discountPercentage": 11.44,
+      "rating": 4.32,
+      "stock": 79,
+      "tags": [
+        "nail polish",
+        "nails"
+      ],
+      "brand": "Nail Couture",
+      "sku": "SHP-0005",
+      "weight": 1,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/beauty/red-nail-polish/thumbnail.webp"
+    },
+    {
+      "id": 6,
+      "title": "Calvin Klein CK One",
+      "description": "A fresh, unisex citrus and green tea fragrance that has stayed a classic for decades.",
+      "category": "fragrances",
+      "price": 49.99,
+      "discountPercentage": 1.89,
+      "rating": 4.37,
+      "stock": 17,
+      "tags": [
+        "perfume",
+        "unisex"
+      ],
+      "brand": "Calvin Klein",
+      "sku": "SHP-0006",
+      "weight": 2,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/calvin-klein-ck-one/thumbnail.webp"
+    },
+    {
+      "id": 7,
+      "title": "Chanel Coco Noir Eau De",
+      "description": "An oriental scent of grapefruit, rose and sandalwood: deep, elegant and made for evenings.",
+      "category": "fragrances",
+      "price": 129.99,
+      "discountPercentage": 16.51,
+      "rating": 4.26,
+      "stock": 41,
+      "tags": [
+        "perfume",
+        "evening"
+      ],
+      "brand": "Chanel",
+      "sku": "SHP-0007",
+      "weight": 3,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/chanel-coco-noir-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 8,
+      "title": "Dior J'adore",
+      "description": "A luminous floral bouquet of ylang-ylang, rose and jasmine in a signature gold bottle.",
+      "category": "fragrances",
+      "price": 89.99,
+      "discountPercentage": 17.44,
+      "rating": 3.8,
+      "stock": 91,
+      "tags": [
+        "perfume",
+        "floral"
+      ],
+      "brand": "Dior",
+      "sku": "SHP-0008",
+      "weight": 4,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dior-j'adore/thumbnail.webp"
+    },
+    {
+      "id": 9,
+      "title": "Dolce Shine Eau de",
+      "description": "A sparkling blend of mango, jasmine and woody musk with a sunny, playful character.",
+      "category": "fragrances",
+      "price": 69.99,
+      "discountPercentage": 11.47,
+      "rating": 3.96,
+      "stock": 3,
+      "tags": [
+        "perfume",
+        "fruity"
+      ],
+      "brand": "Dolce & Gabbana",
+      "sku": "SHP-0009",
+      "weight": 5,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/dolce-shine-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 10,
+      "title": "Gucci Bloom Eau de",
+      "description": "A rich white-floral fragrance built on tuberose and jasmine, with a natural garden feel.",
+      "category": "fragrances",
+      "price": 79.99,
+      "discountPercentage": 14.4,
+      "rating": 2.74,
+      "stock": 93,
+      "tags": [
+        "perfume",
+        "floral"
+      ],
+      "brand": "Gucci",
+      "sku": "SHP-0010",
+      "weight": 1,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 3,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 2,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/fragrances/gucci-bloom-eau-de/thumbnail.webp"
+    },
+    {
+      "id": 11,
+      "title": "Annibale Colombo Bed",
+      "description": "A handcrafted solid wood bed with a sculpted headboard and a timeless Italian profile.",
+      "category": "furniture",
+      "price": 1899.99,
+      "discountPercentage": 8.58,
+      "rating": 4.77,
+      "stock": 47,
+      "tags": [
+        "bed",
+        "bedroom"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "SHP-0011",
+      "weight": 2,
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 4,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-bed/thumbnail.webp"
+    },
+    {
+      "id": 12,
+      "title": "Annibale Colombo Sofa",
+      "description": "A three-seat sofa with deep cushioning and hand-finished detailing for living rooms with character.",
+      "category": "furniture",
+      "price": 2499.99,
+      "discountPercentage": 14.4,
+      "rating": 3.92,
+      "stock": 16,
+      "tags": [
+        "sofa",
+        "living room"
+      ],
+      "brand": "Annibale Colombo",
+      "sku": "SHP-0012",
+      "weight": 3,
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/annibale-colombo-sofa/thumbnail.webp"
+    },
+    {
+      "id": 13,
+      "title": "Bedside Table African Cherry",
+      "description": "A compact bedside table in warm African cherry with a smooth-glide drawer.",
+      "category": "furniture",
+      "price": 299.99,
+      "discountPercentage": 12.62,
+      "rating": 2.87,
+      "stock": 15,
+      "tags": [
+        "table",
+        "bedroom"
+      ],
+      "brand": "Furniture Co.",
+      "sku": "SHP-0013",
+      "weight": 4,
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 3,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 2,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/bedside-table-african-cherry/thumbnail.webp"
+    },
+    {
+      "id": 14,
+      "title": "Knoll Saarinen Executive Conference Chair",
+      "description": "A sculpted executive chair with a supportive back and a polished swivel base.",
+      "category": "furniture",
+      "price": 499.99,
+      "discountPercentage": 8.19,
+      "rating": 4.88,
+      "stock": 47,
+      "tags": [
+        "chair",
+        "office"
+      ],
+      "brand": "Knoll",
+      "sku": "SHP-0014",
+      "weight": 5,
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 4,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/knoll-saarinen-executive-conference-chair/thumbnail.webp"
+    },
+    {
+      "id": 15,
+      "title": "Wooden Bathroom Vanity",
+      "description": "A wall-mount wooden vanity with storage drawers and a clean, modern silhouette.",
+      "category": "furniture",
+      "price": 549.99,
+      "discountPercentage": 15.78,
+      "rating": 4.85,
+      "stock": 12,
+      "tags": [
+        "vanity",
+        "bathroom"
+      ],
+      "brand": "Bath Trends",
+      "sku": "SHP-0015",
+      "weight": 1,
+      "warrantyInformation": "2 year warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 4,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-vanity/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/furniture/wooden-bathroom-vanity/thumbnail.webp"
+    },
+    {
+      "id": 16,
+      "title": "Apple",
+      "description": "Crisp, juicy apples sold by the pound, picked at peak ripeness.",
+      "category": "groceries",
+      "price": 1.99,
+      "discountPercentage": 8.19,
+      "rating": 4.19,
+      "stock": 9,
+      "tags": [
+        "fruit",
+        "fresh"
+      ],
+      "brand": "Fresh Farm",
+      "sku": "SHP-0016",
+      "weight": 2,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/apple/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/apple/thumbnail.webp"
+    },
+    {
+      "id": 17,
+      "title": "Beef Steak",
+      "description": "A well-marbled cut that sears beautifully and stays tender.",
+      "category": "groceries",
+      "price": 12.99,
+      "discountPercentage": 4.1,
+      "rating": 4.47,
+      "stock": 13,
+      "tags": [
+        "meat",
+        "steak"
+      ],
+      "brand": "Butcher's Choice",
+      "sku": "SHP-0017",
+      "weight": 3,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 4,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Omar H."
+        },
+        {
+          "rating": 4,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 3,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/beef-steak/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/beef-steak/thumbnail.webp"
+    },
+    {
+      "id": 18,
+      "title": "Cat Food",
+      "description": "A balanced dry formula with real protein for adult cats.",
+      "category": "groceries",
+      "price": 8.99,
+      "discountPercentage": 12.1,
+      "rating": 3.13,
+      "stock": 13,
+      "tags": [
+        "pets",
+        "cat"
+      ],
+      "brand": "Whisker Wellness",
+      "sku": "SHP-0018",
+      "weight": 4,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 1-2 business days",
+      "availabilityStatus": "In Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Amelia R."
+        },
+        {
+          "rating": 3,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 2,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cat-food/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cat-food/thumbnail.webp"
+    },
+    {
+      "id": 19,
+      "title": "Chicken Meat",
+      "description": "Fresh, skinless chicken portions, ready for grilling, roasting or the pan.",
+      "category": "groceries",
+      "price": 9.99,
+      "discountPercentage": 9.9,
+      "rating": 3.19,
+      "stock": 0,
+      "tags": [
+        "meat",
+        "chicken"
+      ],
+      "brand": "Farmhouse",
+      "sku": "SHP-0019",
+      "weight": 5,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Out of Stock",
+      "reviews": [
+        {
+          "rating": 3,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Daniel K."
+        },
+        {
+          "rating": 3,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 2,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/chicken-meat/thumbnail.webp"
+    },
+    {
+      "id": 20,
+      "title": "Cooking Oil",
+      "description": "A light, neutral oil with a high smoke point for everyday cooking.",
+      "category": "groceries",
+      "price": 4.99,
+      "discountPercentage": 11.22,
+      "rating": 4.8,
+      "stock": 2,
+      "tags": [
+        "oil",
+        "pantry"
+      ],
+      "brand": "Golden Press",
+      "sku": "SHP-0020",
+      "weight": 1,
+      "warrantyInformation": "30 day warranty",
+      "shippingInformation": "Ships in 3-5 business days",
+      "availabilityStatus": "Low Stock",
+      "reviews": [
+        {
+          "rating": 5,
+          "comment": "Exactly as described and arrived quickly.",
+          "date": "2025-01-10T09:00:00.000Z",
+          "reviewerName": "Priya S."
+        },
+        {
+          "rating": 5,
+          "comment": "Good value for the price. I would order again.",
+          "date": "2025-02-11T09:00:00.000Z",
+          "reviewerName": "Marcus T."
+        },
+        {
+          "rating": 4,
+          "comment": "Nicely packaged and the quality is solid.",
+          "date": "2025-03-12T09:00:00.000Z",
+          "reviewerName": "Sofia L."
+        }
+      ],
+      "returnPolicy": "30 days return policy",
+      "minimumOrderQuantity": 1,
+      "images": [
+        "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/1.webp"
+      ],
+      "thumbnail": "https://cdn.dummyjson.com/product-images/groceries/cooking-oil/thumbnail.webp"
+    }
+  ],
+  "total": 20
+}
